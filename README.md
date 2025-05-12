@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/pop-hacker313/badserver"><img src="https://github.com/user-attachments/assets/dadaf61e-2544-470d-b3a5-7c25e002c4d9" alt="py-dos-demo](https://i.postimg.cc/hjXDh012/poster.png"></a></h1>
+<h1><a href="https://github.com/pop-hacker313/badserver"><img src="[https://github.com/user-attachments/assets/dadaf61e-2544-470d-b3a5-7c25e002c4d9](https://i.postimg.cc/hjXDh012/poster.png)" </a></h1>
 <h1 align="center">bad server</h1>
 
 <hr>
