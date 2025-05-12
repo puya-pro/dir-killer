@@ -11,7 +11,7 @@
 <hr>
 
 **Note:**
->This tool use for find hide directory or folder in the website . .
+>This tool use for find hide directory or folder in the website . 
 
 <!--<br>-->
 <!-- <br> -->
@@ -21,7 +21,7 @@
 <!-- <img width="25%" src="https://github.com/user-attachments/assets/f414df86-61da-410e-9d56-26381a08744e"> -->
 <!-- <img width="30%" src="https://github.com/user-attachments/assets/bef69cba-3f1c-41fc-b580-3ae2a77e237c"> -->
 <!-- <img width="30%" src="https://github.com/user-attachments/assets/064561e9-59f8-4452-8e32-b69843c6f4c7"> -->
-<br>
+<!--<br>-->
 <hr>
 <br>
 
