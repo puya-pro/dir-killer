@@ -5,20 +5,16 @@
 
 ### Features :
 - **beautiful :**
-  - very easy
 - **accurate :**
-  - beautiful
 - **simplicity :**
-  - nice
-- ****
 
 <hr>
 
 **Note:**
 >This tool use for find hide directory or folder in the website . .
 
-<br>
-<br>
+<!--<br>-->
+<!-- <br> -->
 
 <!--### Some picture of this tool:-->
 <!--<img width="30%" src="https://github.com/user-attachments/assets/8de6268b-3df2-49d3-bace-78602a3887f1">-->
