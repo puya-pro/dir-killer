@@ -4,9 +4,9 @@
 <hr>
 
 ### Features :
-- **beautiful :**
-- **accurate :**
-- **simplicity :**
+- **beautiful**
+- **accurate**
+- **simplicity**
 
 <hr>
 
